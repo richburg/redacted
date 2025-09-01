@@ -1,5 +1,5 @@
-installation:
-1. clone it with git
-2. uv sync to install deps
-3. activate virtual environment
+Start using it:
+1. Clone the repository
+2. Rub `uv sync` to install dependencies
+3. Run `source .venv/bin/activate` to activate virtual environment
 4. python3 redacted.py <ACCOUNT_TOKEN> <ACCOUNT_ID> <CHANNEL_ID>
