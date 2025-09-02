@@ -1,5 +1,5 @@
 Start using it:
 1. Clone the repository
-2. Rub `uv sync` to install dependencies
+2. Run `uv sync` to install dependencies
 3. Run `source .venv/bin/activate` to activate virtual environment
 4. python3 redacted.py <ACCOUNT_TOKEN> <ACCOUNT_ID> <CHANNEL_ID>
